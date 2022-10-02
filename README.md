@@ -2,17 +2,17 @@
 <h4 align="center">A passionate developer from India with below skills</h3>
 
 <p align="center">
-    <img width="40" height="40" title="docker" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/docker.svg"/>
-    <img width="40" height="40" title="git" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/git.svg"/>
-    <img width="40" height="40" title="github" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/github.svg"/>
-    <img width="40" height="40" title="gluster" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/gluster.svg"/>
-    <img width="40" height="40" title="golang" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/go.svg"/>
-    <img width="40" height="40" title="kubernetes" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/kubernetes.svg"/>
-    <img width="40" height="40" title="linux" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/linux.svg"/>
-    <img width="40" height="40" title="openshift" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/openshift.svg"/>
-    <img width="40" height="40" title="python" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/python.svg"/>
-    <img width="40" height="40" title="rhel" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/redhat.svg"/>
-    <img width="40" height="40" title="vim" src="https://raw.githubusercontent.com/iamniting/iamniting/master/icons/vim.svg"/>
+    <img width="40" height="40" title="docker" src="./icons/docker.png"/>
+    <img width="40" height="40" title="git" src="./icons/git.png"/>
+    <img width="40" height="40" title="github" src="./icons/github.png"/>
+    <img width="40" height="40" title="gluster" src="./icons/gluster.png"/>
+    <img width="40" height="40" title="golang" src="./icons/go.png"/>
+    <img width="40" height="40" title="kubernetes" src="./icons/kubernetes.png"/>
+    <img width="40" height="40" title="linux" src="./icons/linux.png"/>
+    <img width="40" height="40" title="openshift" src="./icons/openshift.png"/>
+    <img width="40" height="40" title="python" src="./icons/python.png"/>
+    <img width="40" height="40" title="rhel" src="./icons/redhat.png"/>
+    <img width="40" height="40" title="vim" src="./icons/vim.png"/>
 </p>
 
 <!---
